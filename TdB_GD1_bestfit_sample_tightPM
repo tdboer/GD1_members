@@ -1,3 +1,8 @@
+## List of all GD-1 member stars as selected from the matched filter analysis of Gaia DR2 + PanSTARRS DR1 data
+## A more conservative cut on PM of |pm_phiX-pm_phiX_track| < 0.75 mas/yr is adopted
+## For convenience, PM and phi2 values offsets from the adopted track are also supplied
+## See https://arxiv.org/abs/1911.05745 for details on the analysis procedure
+##
 #ra dec pmra pmra_error pmdec pmdec_error parallax parallax_error phot_bp_rp_excess_factor ebv gpsfmag gpsfmagerr rpsfmag rpsfmagerr ipsfmag ipsfmagerr phi1 phi2 phi2_trackoff pmphi1 pmphi2 pmphi1_trackoff pmphi2_trackoff
   122.333   -13.502   -2.270    0.245     -8.541    0.177     0.380     0.172     1.212     0.070     18.143    0.004     17.895    0.004     17.863    0.002     -95.500   -4.727    -0.365    -8.552    -2.225    -0.188    0.682   
   122.333   -13.502   -2.270    0.245     -8.541    0.177     0.380     0.172     1.212     0.070     18.143    0.004     17.895    0.004     17.863    0.002     -95.500   -4.727    -0.365    -8.552    -2.225    -0.188    0.682   
